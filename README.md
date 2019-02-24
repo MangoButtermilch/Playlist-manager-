@@ -1,7 +1,7 @@
 #You don't need the UIManager.cs script, the code will work without it.
 
 #The code is completly free.
-#You can easily modify the code however you want to.
+You can easily modify the code however you want to.
 
 1. Copy these files into your project.
 2. Create an empty game object.
