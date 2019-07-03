@@ -7,7 +7,6 @@ public class UIManager : MonoBehaviour {
     //You don't need this class.
     //The playlist manager can work without it.
 
-
     public TextMeshProUGUI songName;
     public TextMeshProUGUI playlistName;
 
