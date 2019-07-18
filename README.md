@@ -24,10 +24,12 @@
   - Play random song: If activated, searches for a random song inside the current playlist if NextSong() is called
   - Play random song prev: If activated, searches for a random song inside the current playlist if PreviousSong() is called
   
-- #methods needed for controlling the playlist their songs:
+- Methods needed for controlling the playlist their songs:
   - NextSong(): plays the next song
   - PreviousSong(): plays the previous song
   - PreviousPlaylist(): plays the previous playlist
   - NextPlaylist(): plays the next playlist
   - PausePlaylist(): pauses the current playlist
   - UnpausePlaylist(): unpauses the current playlist
+
+#Contact: https://twitter.com/_Buttermilch
