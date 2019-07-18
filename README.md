@@ -33,3 +33,4 @@
   - UnpausePlaylist(): unpauses the current playlist
 
 #Contact: https://twitter.com/_Buttermilch
+![alt text](https://github.com/MangoButtermilch/Playlist-manager-unity3D/blob/master/inspector.png?raw=true)
