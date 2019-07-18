@@ -1,3 +1,5 @@
+![alt text](https://github.com/MangoButtermilch/Playlist-manager-unity3D/blob/master/inspector.png?raw=true)
+
 #You don't need the UIManager.cs script, the code will work without it.
 
 #The code is completly free to use.
@@ -33,4 +35,3 @@
   - UnpausePlaylist(): unpauses the current playlist
 
 #Contact: https://twitter.com/_Buttermilch
-![alt text](https://github.com/MangoButtermilch/Playlist-manager-unity3D/blob/master/inspector.png?raw=true)
